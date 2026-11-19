@@ -1,14 +1,13 @@
 
-# Computational Astrobiology Journey
+# Astrobio computer Voyage
 
 ## About
-This repository documents my learning journey in computational
-science and its applications to astrobiology.
+This repository documents about all my learning and mini sessiosn related to bio python, astrobiology. 
 
 ## Research Interests
 - Astrobiology
-- Planetary habitability
-- Origin of life
+- Evolutionary biology
+- How life began ?
 - Extremophiles
 - Biosignatures
 - Mars exploration
@@ -20,7 +19,7 @@ science and its applications to astrobiology.
 - Pandas
 - Matplotlib
 - GIS and Remote Sensing
-- Astronomy and Planetary Computation
+- Astronomy and Planetary Computation - FITS Image analysis
 - Git and GitHub
 
 ## Author
